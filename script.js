@@ -32,4 +32,5 @@ console.log(
     `
 )
 
-document.getElementById("password-generata").innerHTML = password
+document.getElementById("password-generata").innerHTML = password;
+document.getElementById("nome-utente").innerHTML = nome + " " + cognome;
