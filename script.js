@@ -31,3 +31,5 @@ console.log(
     Password: ${password}
     `
 )
+
+document.getElementById("password-generata").innerHTML = password
